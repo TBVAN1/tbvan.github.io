@@ -1,0 +1,43 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
+#i52t{
+  background-color:#ffffff;
+}
+.c8241{
+  padding:10px;
+  top:29px;
+  position:static;
+  font-family:"Microsoft Yahei", sans-serif;
+  font-size:30px;
+}
+.c8997{
+  position:relative;
+  font-size:50px;
+}
+.htmlpage-row{
+  display:table;
+  padding-top:10px;
+  padding-right:10px;
+  padding-bottom:10px;
+  padding-left:10px;
+  width:100%;
+}
+.htmlpage-cell{
+  width:8%;
+  display:table-cell;
+  height:75px;
+}
+.c1717{
+  color:#005371;
+  font-size:27px;
+}
+@media (max-width: 768px){
+  .htmlpage-cell{
+    width:100%;
+    display:block;
+  }
+}
